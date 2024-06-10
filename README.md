@@ -26,3 +26,6 @@ A Graphical User Interface (GUI) is designed for a software demonstration. The t
 If you are having issues using the Energy Optimization Tool, feel free to open an Issue on GitHub [here](https://github.com/csun31/FEST/issues/new/choose)
 
 All contributions are welcome. 
+
+## Acknowledgment 
+The Energy Optimization Tool is developed by University of Michigan-Dearborn with support from the Environmental Security Technology Certification Program (ESTCP).
